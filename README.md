@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Charankumar R</h1>
+<h1 align="center" style="font-size: 42px">Hi there 👋, I'm Charankumar R</h1>
 <h3 align="center">Aspiring Software Development Engineer | Java • Python • React • Data Science (IIT Madras)</h3>
 
 ---
