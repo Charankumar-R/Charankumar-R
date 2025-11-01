@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center" style="font-size: 100px">Hi there 👋, I'm Charankumar R</h1>
-<h3 align="center">Aspiring Software Development Engineer | Student at SEC | Java • Python • React | Data Science (IIT Madras)</h3>
+<h4 align="center">Aspiring Software Development Engineer | Student at SEC | Java • Python • React | Data Science (IIT Madras)</h3>
 
 ---
 
