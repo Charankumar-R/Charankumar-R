@@ -55,7 +55,7 @@ LeetCode (190+ Problems) • HackerRank
 | 🧾 **To-Do List App** | Java console app to manage tasks with sorting, searching, multithreading (auto-save), and serialization. | Java, OOP, File Handling | 🔗 *(Coming Soon)* |
 | 🎓 **Student Management System** | Java CLI tool with CRUD, file handling, and grade calculation functionalities. | Java, OOP, Exception Handling | 🔗 *(Coming Soon)* |
 | 🌦️ **Weather Monitoring Dashboard** | IoT project with NodeMCU + DHT11 for live temperature & humidity visualization on a web app. | IoT, Arduino, NodeMCU, HTML | 🔗 *(Coming Soon)* |
-| 🔐 **Express Auth API** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | 🔗 *(Coming Soon)* |
+| 🔐 **Express Auth** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | 🔗 *(Coming Soon)* |
 
 > 💡 *More projects available in my repositories — featuring OOP, IoT, React, and full-stack development work.*
 
