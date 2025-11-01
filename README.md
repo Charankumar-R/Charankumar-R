@@ -1,24 +1,98 @@
-# 💫 About Me:
-# Hi there 👋, I'm Charankumar R<br><br>🎯 **Aspiring Software Development Engineer** | **Java | Python | SQL | React | Data Science (IIT Madras)**  <br><br>I am passionate about building scalable applications, solving algorithmic challenges, and working on **IoT + Software systems**. Currently pursuing:  <br>- 🎓 B.E. Electronics and Communication Engineering (Saveetha Engineering College)  <br>- 🎓 B.Sc. Data Science (IIT Madras)  <br><br>---<br><br>## 🔧 Tech Stack<br>- **Languages:** Java, Python, C, SQL, JavaScript, HTML, CSS  <br>- **Frameworks & Tools:** React.js, Node.js, Git, GitHub, VS Code  <br>- **Platforms:** Linux/Ubuntu, Windows  <br>- **Problem Solving:** LeetCode (190+ problems), HackerRank  <br><br>---
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charankumar_ravichandran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Charankumar-R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charankumar180305@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Charankumar-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Charankumar-R&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charankumar-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Charankumar-R&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Charankumar R</h1>
+<h3 align="center">Aspiring Software Development Engineer | Java • Python • React • Data Science (IIT Madras)</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Charankumar-R&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+🎯 Passionate about building scalable software systems, distributed applications, and IoT-driven solutions.  
+I enjoy solving algorithmic challenges, contributing to open-source, and exploring innovative tech stacks.
+
+🎓 **Education:**
+- B.E. in **Electronics and Communication Engineering**, Saveetha Engineering College (2022–Present)  
+- B.Sc. in **Data Science**, IIT Madras (Foundation Level, Ongoing)  
+
+💡 **Interests:** Software + IoT Integration, Full-Stack Development, and Problem-Solving  
+💬 Ask me about **Java, Python, DSA, React, or IoT Systems**  
+📧 Reach me at **charankumar180305@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Java` • `Python` • `C` • `SQL` • `JavaScript` • `HTML` • `CSS`
+
+**Frameworks & Tools:**  
+`React.js` • `Node.js` • `Git` • `GitHub` • `VS Code` • `Postman`
+
+**Platforms:**  
+`Linux/Ubuntu` • `Windows`
+
+**Problem Solving:**  
+LeetCode (190+ Problems) • HackerRank
+
+---
+
+### 🧠 Key Projects
+
+- **Student Management System (Java):**  
+  CLI application with data persistence, validation, and grade computation.
+
+- **Weather Monitoring System (IoT):**  
+  NodeMCU + DHT11-based dashboard for real-time temperature and humidity tracking.
+
+- **UART Communication System:**  
+  Serial data exchange between Arduino and NodeMCU for synchronized automation.
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|----------|--------------|------------|--------|
+| 🎬 **Movie Page App** | A React-based movie discovery and search app fetching live movie data from APIs with responsive UI. | React.js, CSS, JavaScript | [🔗 GitHub Repo](https://github.com/RCKcharan10/Movie-Page) |
+| 🧾 **To-Do List App** | Java console app to manage tasks with sorting, searching, multithreading (auto-save), and serialization. | Java, OOP, File Handling | 🔗 *(Coming Soon)* |
+| 🎓 **Student Management System** | Java CLI tool with CRUD, file handling, and grade calculation functionalities. | Java, OOP, Exception Handling | 🔗 *(Coming Soon)* |
+| 🌦️ **Weather Monitoring Dashboard** | IoT project with NodeMCU + DHT11 for live temperature & humidity visualization on a web app. | IoT, Arduino, NodeMCU, HTML | 🔗 *(Coming Soon)* |
+| 🔐 **Express Auth API** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | 🔗 *(Coming Soon)* |
+
+> 💡 *More projects available in my repositories — featuring OOP, IoT, React, and full-stack development work.*
+
+---
+
+### 📜 Certifications
+- ☁️ Cloud Computing Fundamentals  
+- 🔌 Internet of Things (Arduino + NodeMCU)  
+- 💻 LeetCode DSA Practice (190+ Problems Solved)  
+- 🧩 HackerRank – Problem Solving & Java  
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Charankumar-R)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Charankumar-R)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charankumar180305@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charankumar_ravichandran)
+
+---
+
+### 💻 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Charankumar-R&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Charankumar-R&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charankumar-R&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Charankumar-R&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Charankumar-R&icon=10&color=13)](https://visitcount.itsvg.in)
