@@ -27,7 +27,7 @@ I enjoy solving algorithmic challenges, contributing to open-source, and explori
 `React.js` • `Node.js` • `Git` • `GitHub` • `VS Code` • `Postman`
 
 **Platforms:**  
-`Linux/Ubuntu` • `Windows`
+`Linux/Ubuntu(WSL)` • `Windows`
 
 **Problem Solving:**  
 LeetCode (190+ Problems) • HackerRank
@@ -54,7 +54,7 @@ LeetCode (190+ Problems) • HackerRank
 | 🎬 **Movie Page App** | A React-based movie discovery and search app fetching live movie data from APIs with responsive UI. | React.js, CSS, JavaScript | [🔗 GitHub Repo](https://github.com/Charankumar-R/Movie-Page) |
 | 🧾 **To-Do List App** | Java console app to manage tasks with sorting, searching, multithreading (auto-save), and serialization. | Java, OOP, File Handling | 🔗 *(Coming Soon)* |
 | 🎓 **Student Management System** | Java CLI tool with CRUD, file handling, and grade calculation functionalities. | Java, OOP, Exception Handling | 🔗 *(Coming Soon)* |
-| 🎓 **Bank Management System** | A robust Spring Boot RESTful API for managing bank accounts with CRUD and transactional functionalities. | Java--Springboot, MySQL, Postman | [🔗 GitHub Repo](https://github.com/Charankumar-R/Bank-Management-System.git) |
+| 🎓 **Bank Management System** | A robust Spring Boot RESTful API for managing bank accounts with CRUD and transactional functionalities. | Java-Springboot, MySQL, Postman | [🔗 GitHub Repo](https://github.com/Charankumar-R/Bank-Management-System.git) |
 | 🌦️ **Weather Monitoring Dashboard** | IoT project with NodeMCU + DHT11 for live temperature & humidity visualization on a web app. | IoT, Arduino, NodeMCU, HTML | 🔗 *(Coming Soon)* |
 | 🔐 **Express Auth** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | [🔗 GitHub Repo](https://github.com/Charankumar-R/Authentication-Project-API.git) |
 
