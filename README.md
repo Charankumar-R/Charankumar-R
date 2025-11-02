@@ -51,11 +51,11 @@ LeetCode (190+ Problems) • HackerRank
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|------------|--------|
-| 🎬 **Movie Page App** | A React-based movie discovery and search app fetching live movie data from APIs with responsive UI. | React.js, CSS, JavaScript | [🔗 GitHub Repo](https://github.com/RCKcharan10/Movie-Page) |
+| 🎬 **Movie Page App** | A React-based movie discovery and search app fetching live movie data from APIs with responsive UI. | React.js, CSS, JavaScript | [🔗 GitHub Repo](https://github.com/Charankumar-R/Movie-Page) |
 | 🧾 **To-Do List App** | Java console app to manage tasks with sorting, searching, multithreading (auto-save), and serialization. | Java, OOP, File Handling | 🔗 *(Coming Soon)* |
 | 🎓 **Student Management System** | Java CLI tool with CRUD, file handling, and grade calculation functionalities. | Java, OOP, Exception Handling | 🔗 *(Coming Soon)* |
 | 🌦️ **Weather Monitoring Dashboard** | IoT project with NodeMCU + DHT11 for live temperature & humidity visualization on a web app. | IoT, Arduino, NodeMCU, HTML | 🔗 *(Coming Soon)* |
-| 🔐 **Express Auth** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | 🔗 *(Coming Soon)* |
+| 🔐 **Express Auth** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | [🔗 GitHub Repo](https://github.com/Charankumar-R/Authentication-Project-API.git) |
 
 > 💡 *More projects available in my repositories — featuring OOP, IoT, React, and full-stack development work.*
 
