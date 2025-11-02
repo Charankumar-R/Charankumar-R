@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center"><font size="7">Hi there 👋, I'm Charankumar R</font></h1>
-<h3 align="center">Aspiring Software Development Engineer | Student at SEC | Java • Python • React | Data Science (IIT Madras)</h3>
+<h3 align="center">Aspiring Software Development Engineer | Student at SEC | Java • Python • React • SQL | Data Science (IIT Madras)</h3>
 
 ---
 
@@ -10,7 +10,7 @@ I enjoy solving algorithmic challenges, contributing to open-source, and explori
 
 🎓 **Education:**
 - B.E. in **Electronics and Communication Engineering**, Saveetha Engineering College (2022–Present)  
-- B.Sc. in **Data Science**, IIT Madras (Foundation Level, Ongoing)  
+- B.Sc. in **Data Science**, IIT Madras (Foundation Level, 2025-Present)  
 
 💡 **Interests:** Software + IoT Integration, Full-Stack Development, and Problem-Solving  
 💬 Ask me about **Java, Python, DSA, React, or IoT Systems**  
