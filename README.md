@@ -57,7 +57,7 @@ LeetCode (190+ Problems) • HackerRank
 | 🏦 **Bank Management System** | A robust Spring Boot RESTful API for managing bank accounts with CRUD and transactional functionalities. | Java-Springboot, MySQL, Postman | [🔗 GitHub Repo](https://github.com/Charankumar-R/Bank-Management-System.git) |
 | 🌦️ **Weather Monitoring Dashboard** | IoT project with NodeMCU + DHT11 for live temperature & humidity visualization on a web app. | IoT, Arduino, NodeMCU, HTML | 🔗 *(Coming Soon)* |
 | 🔐 **Express Auth** | Backend authentication project using Express.js, JWT, and MongoDB for secure user handling. | Node.js, Express, MongoDB | [🔗 GitHub Repo](https://github.com/Charankumar-R/Authentication-Project-API.git) |
-
+| 💧 Water Quality Management System | A full-stack IoT-style monitoring dashboard built with Spring Boot, React & MySQL for tracking water parameters in real time. | Java 17, Spring Boot, React, MySQL | [🔗 GitHub Repo](https://github.com/Charankumar-R/Water-Quality-Management-System.git) |
 > 💡 *More projects available in my repositories — featuring OOP, IoT, React, and full-stack development work.*
 
 ---
